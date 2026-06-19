@@ -2,7 +2,7 @@
 Problem: Word
 Platform: Codeforces
 Link: https://codeforces.com/problemset/problem/59/A
-Rating: 800
+Rating: 900
 Topic: Math
 Date Solved: 19-06-2026
 */
