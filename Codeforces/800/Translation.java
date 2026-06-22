@@ -1,6 +1,6 @@
 /*
-Problem: Boy or Girl
-Platform: Translation
+Problem: Translation
+Platform: Codeforces
 Link: https://codeforces.com/problemset/problem/41/A
 Rating: 800
 Topic: Math
